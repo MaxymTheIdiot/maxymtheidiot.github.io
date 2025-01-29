@@ -1,2 +1,1 @@
-[aliases]
 w64devkit=w64devkit-2.0.0
