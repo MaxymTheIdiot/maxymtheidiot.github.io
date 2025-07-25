@@ -3,5 +3,17 @@
         "default": "test-0.1.0",
         "valid": [ "test-0.1.0" ],
         "json": "pkgs/test.json"
+    },
+
+    "w64devkit-x64": {
+        "default": "w64devkit-x64-2.3.0",
+        "valid": [ "w64devkit-x64-2.3.0", "w64devkit-x64-2.2.0", "w64devkit-x64-2.1.0", "w64devkit-x64-2.0.0" ],
+        "json": "pkgs/w64devkit-x64.json"
+    },
+
+    "w64devkit-x86": {
+        "default": "w64devkit-x86-2.3.0",
+        "valid": [ "w64devkit-x86-2.3.0", "w64devkit-x86-2.2.0", "w64devkit-x86-2.1.0", "w64devkit-x86-2.0.0" ],
+        "json": "pkgs/w64devkit-x86.json"
     }
 }

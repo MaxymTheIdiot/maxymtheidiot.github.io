@@ -1,0 +1,21 @@
+{
+    "w64devkit-x86-2.3.0": {
+        "download": "https://github.com/skeeto/w64devkit/releases/download/v2.3.0/w64devkit-x86-2.3.0.7z.exe",
+        "run": "$DLPATH\\w64devkit-x86-2.3.0.7z.exe"
+    },
+
+    "w64devkit-x86-2.2.0": {
+        "download": "https://github.com/skeeto/w64devkit/releases/download/v2.2.0/w64devkit-x86-2.2.0.7z.exe",
+        "run": "$DLPATH\\w64devkit-x86-2.2.0.7z.exe"
+    },
+
+    "w64devkit-x86-2.1.0": {
+        "download": "https://github.com/skeeto/w64devkit/releases/download/v2.1.0/w64devkit-x86-2.1.0.exe",
+        "run": "$DLPATH\\w64devkit-x86-2.1.0.exe"
+    },
+
+    "w64devkit-x86-2.0.0": {
+        "download": "https://github.com/skeeto/w64devkit/releases/download/v2.0.0/w64devkit-x86-2.0.0.exe",
+        "run": "$DLPATH\\w64devkit-x86-2.0.0.exe"
+    }
+}
